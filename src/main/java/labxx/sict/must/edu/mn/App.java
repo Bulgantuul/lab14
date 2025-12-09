@@ -1,9 +1,4 @@
 package labxx.sict.must.edu.mn;
-
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
