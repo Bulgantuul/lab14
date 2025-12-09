@@ -22,4 +22,3 @@ public class AdditionTest {
         assertEquals(1.0, calc.add(-2.0, 3.0), "-2 + 3 нь 1-тэй тэнцүү байх ёстой");
     }
 }
-// Файлын төгсгөлд хоосон мөр үлдээх
