@@ -16,4 +16,3 @@ public class MultiplicationTest {
         assertEquals(-6.0, calc.multiply(-2.0, 3.0), "-2 * 3 нь -6-тай тэнцүү байх ёстой");
     }
 }
-// Файлын төгсгөлд хоосон мөр заавал үлдээх

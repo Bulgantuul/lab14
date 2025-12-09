@@ -3,7 +3,7 @@ package labxx.sict.must.edu.mn;
 /**
  * Үндсэн App класс. Utility классын шаардлагыг хангасан.
  */
-public final class App { // Классыг final болгов
+public final class App {
     
     /**
      * Хувийн конструктор. Utility классын конструкторыг үүсгэхгүй.
@@ -17,8 +17,7 @@ public final class App { // Классыг final болгов
      *
      * @param args Командын мөрийн аргументууд
      */
-    public static void main(final String[] args) { // Final Parameters
+    public static void main(final String[] args) {
         System.out.println("Hello World!");
     }
 }
-// Файлын төгсгөлд хоосон мөр заавал үлдээх

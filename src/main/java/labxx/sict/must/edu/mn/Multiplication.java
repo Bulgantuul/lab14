@@ -15,4 +15,3 @@ public class Multiplication {
         return a * b;
     }
 }
-// Файлын төгсгөлд хоосон мөр заавал үлдээх
