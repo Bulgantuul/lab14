@@ -1,13 +1,24 @@
 package labxx.sict.must.edu.mn;
 
 /**
- * Hello world!
- *
+ * Үндсэн App класс. Utility классын шаардлагыг хангасан.
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public final class App { // Классыг final болгов
+    
+    /**
+     * Хувийн конструктор. Utility классын конструкторыг үүсгэхгүй.
+     */
+    private App() {
+        // Хоосон
+    }
+
+    /**
+     * Хөтөлбөрийг ажиллуулах үндсэн метод.
+     *
+     * @param args Командын мөрийн аргументууд
+     */
+    public static void main(final String[] args) { // Final Parameters
+        System.out.println("Hello World!");
     }
 }
+// Файлын төгсгөлд хоосон мөр заавал үлдээх
